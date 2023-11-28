@@ -2,7 +2,8 @@
 
 ## Motivation
 
-A simple telegram bot, that downloads youtube videos to audio/video and sends them back to the user.
+A simple telegram bot written in rust,
+that downloads youtube videos to audio/video and sends them back to the user.
 
 ## License
 
